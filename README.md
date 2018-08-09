@@ -1,4 +1,4 @@
-# Baltimore City Casino Local Impact Grants
+# Baltimore City Casino Local Impact Grant Analysis
 Analysis for and documentation of Baltimore City Casino Local Impact Grant funding for fiscal management and performance
 
 ## Getting Started
@@ -34,18 +34,18 @@ The Local Development Council (LDC), along with the Planning Department, initial
 
 The dataset outlines the funding distribution, agency spending, and current balance remaining for all Local Impact Grant funded projects. The column headers indicate the following:
 
- - Project & Short Description: 1-10 word description of funded project or targeted initiative category
- - LDC Ranking FY15: Category for initial funding (clarification from Ethan)
- - Lead Agency: Baltimore City government agency leading the project outlined
- - Timeframe: Expected duration for the project (although funding is allocated per fiscal year, i.e. agencies can re-apply for funding for the same project each fiscal year)
- - FYXX Budgeted: Dollar amount from grant funding allocated to that project for fiscal year XX 
- - FY XX Carry Fwd: Dollar amount not spent for that project from the previous year that is carried over to the budget for fiscal year XX 
- - FY XX Tier 1, 2: Dollar amount allocated to project coming from extra funding in the grant account in fiscal year XX; distribution determined by …(clarification from Ethan)
- - FY XX Modification: Dollar amount added/subtracted to the budget (clarification from Ethan)
- - FY XX Rev./Final: Dollar amount for the total budget for that project in fiscal year XX (Budgeted + Carry Forward + Tier 1, 2 +/- Modification)
- - FY XX Expended: Dollar amount spent for that project in fiscal year XX 
- - Q1-4: Dollar amount spent in fiscal quarters 1-4 in FY 2018
- - Total Spending: Dollar amount spent as sum of quarters in FY 2018 
- - Balance Remaining: Dollar amount not spent for project in FY 2018
- - Remarks: Notes on the projects
+ - __Project & Short Description:__ 1-10 word description of funded project or targeted initiative category
+ - __LDC Ranking FY15:__ Category for initial funding (clarification from Ethan)
+ - __Lead Agency:__ Baltimore City government agency leading the project outlined
+ - __Timeframe:__ Expected duration for the project (although funding is allocated per fiscal year, i.e. agencies can re-apply for funding for the same project each fiscal year)
+ - __FYXX Budgeted:__ Dollar amount from grant funding allocated to that project for fiscal year XX 
+ - __FY XX Carry Fwd:__ Dollar amount not spent for that project from the previous year that is carried over to the budget for fiscal year XX 
+ - __FY XX Tier 1, 2:__ Dollar amount allocated to project coming from extra funding in the grant account in fiscal year XX; distribution determined by …(clarification from Ethan)
+ - __FY XX Modification:__ Dollar amount added/subtracted to the budget (clarification from Ethan)
+ - __FY XX Rev./Final:__ Dollar amount for the total budget for that project in fiscal year XX (Budgeted + Carry Forward + Tier 1, 2 +/- Modification)
+ - __FY XX Expended:__ Dollar amount spent for that project in fiscal year XX 
+ - __Q1-4:__ Dollar amount spent in fiscal quarters 1-4 in FY 2018
+ - __Total Spending:__ Dollar amount spent as sum of quarters in FY 2018 
+ - __Balance Remaining:__ Dollar amount not spent for project in FY 2018
+ - __Remarks:__ Notes on the projects
 
