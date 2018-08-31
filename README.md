@@ -50,6 +50,7 @@ In 2016, the General Assembly, Mayor and City Council established the South Balt
 
 ## Data Dictionary
 The dataset outlines the funding distribution, agency spending, and current balance remaining for all Local Impact Grant funded projects. The column headers indicate the following:
+
 __Project or Activity Name:__ 1-10 word description of funded project or targeted initiative
 
 __LDC Ranking FY15:__ Prioritization of activity during first-year spending plan creation
